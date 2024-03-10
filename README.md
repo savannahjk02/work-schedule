@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-This site is accessible using [Work Schedule]().
+This site is accessible using [Work Schedule](https://savannahjk02.github.io/work-schedule/).
 
 The site will look like the following screenshots:
 
