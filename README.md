@@ -10,17 +10,16 @@ N/A
 
 ## Usage
 
-This site is accessible using [Timed Coding Quiz](https://savannahjk02.github.io/timed-coding-quiz/).
+This site is accessible using [Work Schedule]().
 
 The site will look like the following screenshots:
 
-![timed coding quiz website screenshot 1](/Assets/images/Screenshot%202024-03-08%20at%201.31.16%20PM.png)
+![work schedule screenshot 1](/assets/Screenshot%202024-03-10%20at%205.38.31%20AM.png)
 
-![timed coding quiz website screenshot 2](/Assets/images/Screenshot%202024-03-08%20at%201.43.14%20PM.png)
+![work schedule screenshot 2](/assets/Screenshot%202024-03-10%20at%205.39.12%20AM.png)
 
-![timed coding quiz website screenshot 3](/Assets/images/Screenshot%202024-03-08%20at%201.43.21%20PM.png)
+![work schedule screenshot 3](/assets/Screenshot%202024-03-10%20at%205.39.34%20AM.png)
 
-![timed coding quiz website screenshot 4](/Assets/images/Screenshot%202024-03-08%20at%201.57.56%20PM.png)
 ## Credits
 
 N/A
